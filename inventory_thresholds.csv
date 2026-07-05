@@ -1,0 +1,6 @@
+sku,avg_daily_demand,demand_std,lead_time_days,forecast_rmse,service_level,z_score,safety_stock,reorder_point,unit_cost,safety_stock_value_usd
+PCB-A100-CTRLBOARD,573.1,91.2,45,26.1,0.95,1.64,1046,26837,12.5,13078.17
+PCBA-B220-PWRMOD,193.3,37.7,60,19.9,0.95,1.64,543,12140,28.75,15621.4
+CONN-C310-HARNESS,1506.2,230.7,30,52.3,0.95,1.64,2131,47318,3.2,6819.27
+SENSOR-D410-TEMP,230.6,37.5,75,16.0,0.95,1.64,582,17879,8.9,5176.3
+IC-E510-MCU,1076.9,166.2,90,36.9,0.95,1.64,2656,99577,15.4,40901.87

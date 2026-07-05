@@ -1,0 +1,6 @@
+sku,arima_rmse,arima_mae,xgboost_rmse,xgboost_mae,best_model,improvement_pct
+PCB-A100-CTRLBOARD,84.22,73.58,26.12,21.21,XGBoost,69.0
+PCBA-B220-PWRMOD,38.21,31.47,19.86,15.95,XGBoost,48.0
+CONN-C310-HARNESS,201.25,181.62,52.32,42.49,XGBoost,74.0
+SENSOR-D410-TEMP,36.03,30.57,16.05,12.88,XGBoost,55.5
+IC-E510-MCU,148.7,138.78,36.89,29.64,XGBoost,75.2
